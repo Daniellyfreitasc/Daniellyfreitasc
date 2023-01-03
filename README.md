@@ -1,4 +1,4 @@
-## Oiii eu sou a Danielly Freitas, estudante de Gestão em TI e programação!
+## Oiii eu sou a Danielly Freitas, graduada em Gestão em TI e programação!
 <div align="center">
   <a href="https://github.com/Daniellyfreitasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniellyfreitasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
