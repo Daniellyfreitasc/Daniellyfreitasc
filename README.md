@@ -1,4 +1,6 @@
-## Oiii eu sou a Danielly Freitas, graduada em Gestão em TI e programação!
+## Me chamo Danielly Freitas, sou graduada em Gestão em TI e Trainee em programação pela Cerrado Pneus em Luís Eduardo Magalhães - BA!
+
+
 <div align="center">
   <a href="https://github.com/Daniellyfreitasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniellyfreitasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,8 +21,8 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/danyfreitasc" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" target="_blank"></a>
- <a href="https://discord.gg/866732938569580544" target="_blank"><img src="https://img.icons8.com/color/96/000000/discord-new-logo.png" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/daniellyfreitasc" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png" target="_blank"></a> 
- <a href = "mailto:daniellyfreitasc@hotmail.com"><img src="https://img.icons8.com/color/96/000000/apple-mail.png" title="hotmail" /></a>
+  <a href="https://instagram.com/danyfreitasc" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new--v1.png" target="_blank" height="40" width="40"></a>
+ <a href="https://discord.gg/866732938569580544" target="_blank"><img src="https://img.icons8.com/color/96/000000/discord-new-logo.png" target="_blank" height="40" width="40"></a> 
+ <a href="https://www.linkedin.com/in/daniellyfreitasc" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin-2--v1.png" target="_blank" height="40" width="40"></a> 
+ <a href = "mailto:daniellyfreitasc@hotmail.com"><img src="https://img.icons8.com/color/96/000000/apple-mail.png" title="hotmail" height="40" width="40" /></a>
 </div>
