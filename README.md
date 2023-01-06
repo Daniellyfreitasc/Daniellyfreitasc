@@ -13,6 +13,7 @@
   <img align="center" alt="Dany-Angular" height="30" width="40" src="https://img.icons8.com/color/96/000000/angularjs.png" title="Angular" />
   <img align="center" alt="Dany-Git" height="30" width="40" src="https://img.icons8.com/color/96/000000/git.png" title="Git"/>
   <img align="center" alt="Dany-Npm" height="30" width="40" src="https://img.icons8.com/color/96/000000/npm.png" title="Npm" />
+  <img align="center" alt="Dany-Flutter" height="30" width="40" src="https://img.icons8.com/color/96/000000/flutter.png" title="Flutter"/>
   
   ##
  
