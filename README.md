@@ -1,4 +1,12 @@
-## Me chamo Danielly Freitas, sou graduada em Gestão em TI e Trainee em programação pela Cerrado Pneus em Luís Eduardo Magalhães - BA!
+ Sou a Danielly, uma profissional dedicada e apaixonada por desenvolvimento de software. Ao longo da minha carreira, conquistei experiência como Analista de Suporte, trabalhando com SQL Server e adquirindo conhecimentos em softwares e hardwares. No entanto, minha verdadeira paixão está no desenvolvimento Front-End, com destaque para JavaScript e Angular.
+
+Atualmente, tenho o privilégio de ser desenvolvedora Flutter/Dart, contribuindo para a criação de aplicativos mobile internos da empresa em que atuo como colaboradora. Essa oportunidade me proporcionou uma ampla experiência no desenvolvimento de soluções mobile eficientes e intuitivas.
+
+Minhas habilidades abrangem uma variedade de tecnologias, incluindo Java e Spring Boot, que adquiri por meio de programas como o Code Girls Santander e o programa Start da Capgemini. Além disso, possuo conhecimentos sólidos em React, Flutter e Dart, e sou proficiente em HTML5, CSS3, Vercel e Supabase.
+
+Busco constantemente aprimorar minhas habilidades e alcançar novas conquistas profissionais. Como prova disso, participei do programa DIO Campus Expert, onde aprofundei meus conhecimentos e desenvolvi habilidades de liderança e planejamento de carreira. Além disso, estou em constante aperfeiçoamento do meu inglês para estar preparada para oportunidades globais.
+
+Estou entusiasmada em fazer parte de projetos desafiadores que envolvam desenvolvimento Front-End, Full Stack ou Flutter. Se você procura um profissional comprometido, determinado a alcançar resultados excepcionais e com um desejo contínuo de crescimento profissional, estou pronta para contribuir para o sucesso do seu projeto.
 
 
 <div align="center">
